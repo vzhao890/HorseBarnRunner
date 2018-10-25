@@ -21,8 +21,5 @@ public class HorseRunner
         System.out.println(barn);
         System.out.println(" Dusty trail is now in space: " + barn.findHorseSpace("Dusty Trail"));
 
-
     }
-
-
 }

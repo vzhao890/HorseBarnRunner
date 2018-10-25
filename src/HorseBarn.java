@@ -4,7 +4,7 @@ public class HorseBarn
 
     public HorseBarn(Horse[] horses)
     {
-        
+        this.spaces= horses;
     }
 
     public void consolidate() {
