@@ -1,6 +1,6 @@
-public class Horse
+public interface Horse
 {
-     private String name;
-     private int weight;
-     private Horse[] spaces;
+     String getName();
+     int getWeight();
+
 }
