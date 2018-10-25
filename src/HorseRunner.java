@@ -23,7 +23,9 @@ public class HorseRunner
 
 
     }
+    /*
     public void consolidate() {
+
         for (int i = 0; i < this.spaces.length-1; i++) {
             if (this.spaces[i] == null) {
                 for (int j = i+1; j < this.spaces.length; j++) {
@@ -36,6 +38,8 @@ public class HorseRunner
             }
         }
     }
+    */
+    /*
     public int findHorseSpace(String name) {
         for (int i = 0; i < this.spaces.length; i++) {
             if (this.spaces[i]!=null && name.equals(this.spaces[i].getName())) {
@@ -44,5 +48,6 @@ public class HorseRunner
         }
         return -1;
     }
+    */
 
 }
