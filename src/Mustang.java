@@ -1,4 +1,4 @@
-public class Mustang
+public class Mustang extends Horse
 {
     
 }
